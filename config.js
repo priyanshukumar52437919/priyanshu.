@@ -1,9 +1,9 @@
 // config.js
 module.exports = {
   token: process.env.DISCORD_TOKEN,
-  prefix: "$",
+  prefix: "?",
   enablePrefix: true,
-  supportServer: "https://discord.gg/9MVAPpfs8D",
+  supportServer: "https://discord.gg/axom",
 
   activity: {
     name: "/help",
